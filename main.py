@@ -1,0 +1,16 @@
+'''
+git config --global user.name my-name SunnatDevPy
+git config --global user.email my-email myfish.sunnat@gmail.com
+'''
+
+'''kalit
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDBj94kbi3Jc9dE
+E8eL35MwYwu/VmbeI8ShyVbp7nLFnRqG/DIg5DLgQhraKiCyjqD7+pnugt2JRAaFfXjKrFk1Vvi4o5RVj+bpO5Pz0utFdluOrY
+euwWFBqotkEI10ZXNSqbOAX4iiBgbn2746mxZY+maVRmfjMNHFEVi/kEtAurROstBiZasGWKXIeladQi25XpIcFtVnhGQK8ruTZGmmVL
+HeR2w+XS4yl9dhHMxYq3pqksmTTEGXkrEy4XqbhSono6PyCgHPHrj408Vi9CGrkZ/mwzuzSrN0oH4N8B07tCpSkCbNfHLpjlP6/5Pwnp+
+MOw4+BBnt8iQhTsgi0YcZyi+TsnYdmsPm+9W3UIhHjkQUOjEW0PDHSiha4R3iEgBvqEPCZ35qNvSH7r6Vatf6mTcv04QQU9uE3caGgGch
+d8AApvevyTXnu5OKOsyvKrQhkQl6OHafTwxJAE/CRDASl36SJNSVo3zfEKTzqTnWvh6sn0VFeXNDrO0NrlogWRs= sunnat-devpy@sun
+nat-devpy-V1-18
+
+'''
